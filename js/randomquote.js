@@ -1,24 +1,24 @@
 function generateQuote() {
     const quotes = [
         {
-            quote: "This is my first quote.",
-            author: "Me"
+            quote: "Think only of your art.",
+            author: "Miyamoto Musashi"
         }, 
         {
-            quote: "This is my second quote.",
-            author: "Me"
+            quote: "My whole thing is to inspire, to better people, to better myself forever in this thing that we call rap, this thing that we call hip hop.",
+            author: "Kendrick Lamar"
         }, 
         {
-            quote: "This is my third quote.",
-            author: "Me"
+            quote: "Never run back on what broke you.",
+            author: "Frank Ocean"
         }, 
         {
-            quote: "This is my fourth quote.",
-            author: "Me"
+            quote: "Aw, man, I shot Marvin in the face.",
+            author: "Vincent Vega"
         }, 
         {
-            quote: "This is my fifth quote.",
-            author: "Me"
+            quote: "I think I have this thing where I need everybody to think I'm the greatest.",
+            author: "Fantastic Mr. Fox"
         }
     ];
 
