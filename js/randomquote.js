@@ -22,8 +22,8 @@ function generateQuote() {
         }
     ];
 
-    let currentQuote = math.floor(Math.random() * quotes.length);
-    //console.log(currentQuote)
+    let currentQuote = Math.floor(Math.random() * quotes.length);
+    console.log(currentQuote)
     
     document.getElementById('quotation').innerHTML = "&quot;" + quotes[currentQuote].quote + "&quot;";
     document.getElementById('author').innerHTML = "-" + quotes[currentQuote].author;
